@@ -1,5 +1,6 @@
 '''
-Phone Number converter: eg (517) 989-1887 = 517-989-1887
+Phone Number converter: eg (517) 989-1887 = 517-989-1887 
+*Not optimized, edge cases not solved, lots of fixing needs to be made*
 '''
 number = input("Enter your phone number")
 
